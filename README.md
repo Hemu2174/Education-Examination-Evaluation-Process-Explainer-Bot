@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Developed by:** [Malipeddi Sekhar](https://github.com/malipeddisekhar)  
+ 
 **Institution:** AITAM (Aditya Institute of Technology and Management)  
 **Team:** Error Squad  
 **Academic Year:** 2025-2026 (6th Semester)
@@ -483,20 +483,6 @@ If you encounter any issues or have questions:
 2. Search [existing issues](https://github.com/malipeddisekhar/Education-Examination-Evaluation-Process-Explainer-Bot/issues)
 3. Create a [new issue](https://github.com/malipeddisekhar/Education-Examination-Evaluation-Process-Explainer-Bot/issues/new) with details
 4. Contact the developer directly
-
----
-
-<div align="center">
-
-**Made with ❤️ by Malipeddi Sekhar**
-
-⭐ Star this repo if you find it helpful!
-
-[Report Bug](https://github.com/malipeddisekhar/Education-Examination-Evaluation-Process-Explainer-Bot/issues) · [Request Feature](https://github.com/malipeddisekhar/Education-Examination-Evaluation-Process-Explainer-Bot/issues) · [Documentation](docs/)
-
-</div>
-
----
 
 **Last Updated**: May 11, 2026  
 **Version**: 1.0.0  
